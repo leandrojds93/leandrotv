@@ -3,7 +3,7 @@
     <div class="p-24 md:order-1 hidden md:block">
       <img
         class="transition-transform transform hover:scale-125"
-        src="~/assets/img/conteudo.png"
+        src="~/assets/img/banner.png"
         alt="Starship starts the engine"
         loading="eager"
         format="avif"
