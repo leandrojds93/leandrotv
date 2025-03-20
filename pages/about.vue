@@ -3,18 +3,18 @@ definePageMeta({
   layout: "landing",
 });
 
-const TeamImg1 = "https://source.unsplash.com/IF9TK5Uy-KI";
+const TeamImg1 = "~/assets/img/banner.png";
 const TeamImg2 = "https://source.unsplash.com/iEEBWgY_6lA";
 const TeamImg3 = "https://source.unsplash.com/ZHvM3XIOHoE";
 
 const team = [
   {
-    name: "Janette Lynch",
-    title: "Senior Director",
+    name: "SHARE IBO SMR",
+    title: " Downloader: 1135527",
     avatar: {
       src: TeamImg1,
-      width: 480,
-      height: 560,
+      width: 322,
+      height: 182,
     },
   },
   {
@@ -41,7 +41,7 @@ const team = [
 <template>
   <LandingContainer>
     <LandingSectionhead>
-      <template v-slot:title>About</template>
+      <template v-slot:title>Share TV - Play Store</template>
       <template v-slot:desc>We are a small passionate team.</template>
     </LandingSectionhead>
 
