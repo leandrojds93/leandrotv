@@ -4,25 +4,25 @@ const features = [
     title: "Flexibilidade de acesso",
     description:
       "Com o IPTV, você pode acessar o conteúdo em diversos dispositivos.",
-    icon: "bx:bxs-briefcase",
+    icon: "bx:bxs-devices",
   },
   {
     title: "Qualidade de imagem e som",
     description:
       "O IPTV oferece uma experiência de visualização de alta qualidade, com suporte para crianças e vídeos em alta definição (UHD).",
-    icon: "bx:bxs-window-alt",
+    icon: "bx:bxs-tv",
   },
   {
     title: "Estabilidade de sinal",
     description:
       "O IPTV depende de uma conexão estável com a internet para funcionar corretamente.",
-    icon: "bx:bxs-data",
+    icon: "bx:bxs-badge-check",
   },
   {
     title: "Variedade de conteúdo",
     description:
       "O IPTV oferece uma ampla variedade de conteúdo, incluindo filmes, programas de TV, esportes e muito mais.",
-    icon: "bx:bxs-bot",
+    icon: "bx:bxs-movie",
   },
   {
     title: "Encontre o que você procura",
@@ -34,7 +34,7 @@ const features = [
     title: "Recursos interativos",
     description:
       "Oferecemos recursos interativos, como pausa, retrocesso e gravação de programas ao vivo.",
-    icon: "bx:bxs-user",
+    icon: "bx:bxs-cog",
   },
 ];
 </script>

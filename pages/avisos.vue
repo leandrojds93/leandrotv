@@ -1,6 +1,8 @@
 <script setup>
 definePageMeta({
   layout: "landing",
+  title: "Quadro de Avisos",
+  description: "Avisos importantes para os clientes.",
 });
 
 const avisos = [

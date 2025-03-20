@@ -1,6 +1,8 @@
 <script setup>
 definePageMeta({
   layout: "landing",
+  title: "Suporte / Contato",
+  description: "Entre em contato conosco preenchendo o formulário abaixo.",
 });
 </script>
 

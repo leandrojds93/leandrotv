@@ -1,8 +1,8 @@
 <script setup>
 const menuitems = [
   {
-    title: "Solicitar Teste",
-    path: "https://wa.me/5534984164210?text=Solicitar%20teste%20gr%C3%A1tis!",
+    title: "Inicio",
+    path: "/",
   },
   {
     title: "Planos & Valores",

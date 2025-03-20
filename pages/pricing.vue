@@ -1,6 +1,8 @@
 <script setup>
 definePageMeta({
   layout: "landing",
+  title: "Planos & Valores",
+  description: "Valores fixos de acordo com o plano contratado.",
 });
 
 const pricing = [

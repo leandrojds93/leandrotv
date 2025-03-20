@@ -1,6 +1,8 @@
 <script setup>
 definePageMeta({
   layout: "landing",
+  title: "Serviço IPTV Premium",
+  description: "Serviço de IPTV Premium com qualidade e estabilidade.",
 });
 </script>
 

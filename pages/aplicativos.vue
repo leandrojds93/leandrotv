@@ -1,6 +1,8 @@
 <script setup>
 definePageMeta({
   layout: "landing",
+  title: "Aplicativos",
+  description: "Baixe os aplicativos oficiais para Android TV e Tv Box.",
 });
 
 const app1 = "https://sharetvstore.pds01.site/control/actions/imagens_app/180325010058.png";
