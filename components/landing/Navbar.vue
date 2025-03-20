@@ -26,8 +26,8 @@ const open = ref(false);
     <header class="flex flex-col lg:flex-row justify-between items-center my-5">
       <div class="flex w-full lg:w-auto items-center justify-between">
         <a href="/" class="text-lg"
-          ><span class="font-bold text-slate-800">Leandro</span
-          ><span class="text-slate-500">TV</span>
+          ><span class="font-bold text-slate-800">Serviço IPTV</span
+          ><span class="text-slate-500"> Premium</span>
         </a>
         <div class="block lg:hidden">
           <button @click="open = !open" class="text-gray-800">
@@ -70,8 +70,8 @@ const open = ref(false);
       </nav>
       <div>
         <div class="hidden lg:flex items-center gap-4">
-          <a href="#">Avisos</a>
-          <LandingLink href="#" size="md">Play Store</LandingLink>
+          <a href="/avisos">Avisos</a>
+          <LandingLink href="/aplicativos" size="md">Play Store</LandingLink>
         </div>
       </div>
     </header>

@@ -40,7 +40,7 @@
           size="lg"
           styleName="outline"
           rel="noopener"
-          href="https://leandrotv.my.canva.site"
+          href="/aplicativos"
           target="_blank"
           >Loja de aplicativos</LandingLink
         >
