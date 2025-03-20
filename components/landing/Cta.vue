@@ -11,7 +11,6 @@
     <div class="mt-8">
       <LandingLink
         href=""
-        styleName="inverted"
         class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 text-lg font-medium rounded-full transition-all shadow-md hover:shadow-lg"
       >
         SOLICITAR TESTE
