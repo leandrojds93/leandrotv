@@ -19,8 +19,16 @@ const perguntas = [
     resposta: "Se o acesso for bloqueado, tente reiniciar o roteador ou use um DNS alternativo. Caso o problema persista, entre em contato conosco.",
   },
   {
+    pergunta: "O que eu estou contratando?",
+    resposta: "Fornecemos uma lista de conteúdos de streaming de vídeo, áudio e TV ao vivo. Não hospedamos, não transmitimos e não somos responsáveis por nenhum conteúdo.",
+  },
+  {
     pergunta: "Como funciona a promoção de indicação?",
     resposta: "Indique dois amigos e ganhe um mês de assinatura grátis após eles confirmarem o pagamento.",
+  },
+  {
+    pergunta: "Você tem suporte para instalação?",
+    resposta: "Sim, temos suporte para instalação e configuração. Entre em contato conosco para mais informações.",
   },
 ];
 </script>
