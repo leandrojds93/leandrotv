@@ -45,9 +45,6 @@ const apps = [
 
 <template>
   <div class="mt-24 md:mt-12">
-    <h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight">
-      Aplicativos disponíveis.
-    </h2>
     <p class="text-lg mt-4 text-slate-600">
       Faça o download do nosso aplicativo para seu dispositivo e tenha acesso ao
       melhor serviço de Streaming do Brasil.
