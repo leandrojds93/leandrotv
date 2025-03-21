@@ -70,8 +70,8 @@ const open = ref(false);
       </nav>
       <div>
         <div class="hidden lg:flex items-center gap-4">
-          <a href="/avisos">Avisos</a>
-          <LandingLink href="/" size="md">Inicio</LandingLink>
+          <a href="/">Login</a>
+          <LandingLink href="/" size="md">Registro</LandingLink>
         </div>
       </div>
     </header>
