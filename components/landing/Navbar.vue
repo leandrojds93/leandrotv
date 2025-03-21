@@ -71,7 +71,7 @@ const open = ref(false);
       <div>
         <div class="hidden lg:flex items-center gap-4">
           <a href="/avisos">Avisos</a>
-          <LandingLink href="/aplicativos" size="md">Play Store</LandingLink>
+          <LandingLink href="/" size="md">Inicio</LandingLink>
         </div>
       </div>
     </header>

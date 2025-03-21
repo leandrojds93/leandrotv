@@ -42,14 +42,6 @@
         <LandingLink
           size="lg"
           rel="noopener"
-          href="/aplicativos"
-          class="bg-purple-600 hover:bg-purple-700 text-white px-4 py-2 text-sm font-medium rounded-md shadow-lg transition-all"
-        >
-          Loja de aplicativos
-        </LandingLink>
-        <LandingLink
-          size="lg"
-          rel="noopener"
           href="/faq"
           class="bg-green-600 hover:bg-green-700 text-white px-4 py-2 text-sm font-medium rounded-md shadow-lg transition-all"
         >
