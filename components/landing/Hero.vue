@@ -1,5 +1,5 @@
 <template>
-  <main class="grid lg:grid-cols-2 place-items-center justify-center min-h-screen py-16 px-8 lg:px-16 text-white rounded-lg">
+  <main class="grid lg:grid-cols-2 place-items-center justify-center w-full min-h-screen py-16 px-5 lg:px-5 text-white rounded-lg">
     <!-- Imagem com tamanho ajustado -->
     <div class="md:order-1 flex justify-center">
       <img
@@ -51,7 +51,6 @@
           size="lg"
           rel="noopener"
           href="/faq"
-          target="_blank"
           class="bg-green-600 hover:bg-green-700 text-white px-4 py-2 text-sm font-medium rounded-md shadow-lg transition-all"
         >
           Duvidas Frequentes!
