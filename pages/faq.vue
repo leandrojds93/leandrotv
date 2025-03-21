@@ -11,6 +11,10 @@ const perguntas = [
     resposta: "Você pode alterar seu DNS acessando as configurações de rede do seu dispositivo. Caso precise de ajuda, entre em contato com nosso suporte.",
   },
   {
+    pergunta: "Qual URL devo utilizar para acessar o serviço?",
+    resposta: "Utilize sempre as informações de host, servidor e DNS enviadas pelo Whatsapp junto com suas informações de login. Caso nescessário, a qualquer momento basta solicitar para seu técnico.",
+  },
+  {
     pergunta: "O que fazer se meu acesso for bloqueado?",
     resposta: "Se o acesso for bloqueado, tente reiniciar o roteador ou use um DNS alternativo. Caso o problema persista, entre em contato conosco.",
   },
