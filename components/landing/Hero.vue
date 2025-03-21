@@ -1,5 +1,5 @@
 <template>
-  <main class="grid lg:grid-cols-2 place-items-center py-16 px-8 lg:px-16 text-white rounded-lg">
+  <main class="grid lg:grid-cols-2 place-items-center justify-center min-h-screen py-16 px-8 lg:px-16 text-white rounded-lg">
     <!-- Imagem com tamanho ajustado -->
     <div class="md:order-1 flex justify-center">
       <img
@@ -13,9 +13,9 @@
 
     <!-- Texto principal -->
     <div>
-      <h1 class="text-5xl lg:text-6xl xl:text-7xl font-extrabold lg:tracking-tight mb-4 text-black">
-        O melhor serviço de IPTV do Brasil.
-      </h1>
+      <h1 class="text-5xl lg:text-6xl xl:text-7xl font-extrabold lg:tracking-tight mb-4 text-gray-900 drop-shadow-lg">
+      O melhor serviço de IPTV do Brasil.
+      </h1>      
       <p class="text-lg mt-4 text-slate-400 max-w-xl leading-relaxed">
         Assista o que quiser, onde quiser e quando quiser com a maior
         variedade de conteúdos do Brasil e uma enorme gama de opções de entretenimento.
@@ -26,7 +26,7 @@
         <LandingLink
           href="/pricing"
           rel="noopener"
-          class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 text-lg font-medium rounded-md shadow-lg transition-all"
+          class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 text-sm font-medium rounded-md shadow-lg transition-all"
         >
           Planos e Valores
         </LandingLink>
@@ -35,7 +35,7 @@
           rel="noopener"
           href="https://wa.me/5534984164210?text=Solicitar%20teste%20gr%C3%A1tis!"
           target="_blank"
-          class="bg-green-600 hover:bg-green-700 text-white px-6 py-3 text-lg font-medium rounded-md shadow-lg transition-all"
+          class="bg-green-600 hover:bg-green-700 text-white px-4 py23 text-sm font-medium rounded-md shadow-lg transition-all"
         >
           Solicitar teste grátis!
         </LandingLink>
@@ -43,9 +43,18 @@
           size="lg"
           rel="noopener"
           href="/aplicativos"
-          class="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 text-lg font-medium rounded-md shadow-lg transition-all"
+          class="bg-purple-600 hover:bg-purple-700 text-white px-4 py-2 text-sm font-medium rounded-md shadow-lg transition-all"
         >
           Loja de aplicativos
+        </LandingLink>
+        <LandingLink
+          size="lg"
+          rel="noopener"
+          href="/faq"
+          target="_blank"
+          class="bg-green-600 hover:bg-green-700 text-white px-4 py-2 text-sm font-medium rounded-md shadow-lg transition-all"
+        >
+          Duvidas Frequentes!
         </LandingLink>
       </div>
     </div>
