@@ -5,37 +5,37 @@ definePageMeta({
   description: "Baixe os aplicativos oficiais para Android TV e Tv Box.",
 });
 
-const app1 = "https://sharetvstore.pds01.site/control/actions/imagens_app/180325010058.png";
-const app2 = "https://sharetvstore.pds01.site/control/actions/imagens_app/180325010308.png";
-const app3 = "https://sharetvstore.pds01.site/control/actions/imagens_app/180325010606.png";
+const app1 = "https://conectamax.shop/wp-content/uploads/elementor/thumbs/ASSIST-r5kttq71igffobsuu673t8v84i1nqymzxjjonngud4.jpg";
+const app2 = "https://conectamax.shop/wp-content/uploads/2025/03/Captura-de-tela-2025-05-21-224425-768x434.png";
+const app3 = "https://conectamax.shop/wp-content/uploads/2025/03/Captura-de-tela-2025-05-21-223735-768x433.png";
 
 const apps = [
   {
-    name: "SHARE IBO SMR",
-    title: "Downloader: 1135527",
+    name: "RECOMENDADO: ASSIST PLUS",
+    title: "Downloader: 8209473",
     dados: {
       src: app1,
-      url: "https://sharetvstore.pds01.site/control/actions/aplicativos/SHAREIBOSMR4.apk",
+      url: "https://conectamax.shop/tvapk/assistplus.apk",
       width: 580,
       height: 580,
     },
   },
   {
-    name: "SHARE XC3D",
-    title: "Downloader: 1452571",
+    name: "APLICATIVO MULT SMARTERS",
+    title: "Downloader: 3747507",
     dados: {
       src: app2,
-      url: "https://sharetvstore.pds01.site/control/actions/aplicativos/SHAREIBOSMR4.apk",
+      url: "https://conectamax.shop/tvapk/mult-smarters.apk",
       width: 580,
       height: 580,
     },
   },
   {
-    name: "SHARE UNI",
-    title: "Downloader: 3314918",
+    name: "APLICATIVO MULT XCTOPTV",
+    title: "Downloader: 3569579",
     dados: {
       src: app3,
-      url: "https://sharetvstore.pds01.site/control/actions/aplicativos/SHARETVUNI3.apk",
+      url: "https://conectamax.shop/tvapk/mult-xcplus.apk",
       width: 580,
       height: 580,
     },
