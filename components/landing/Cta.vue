@@ -10,7 +10,7 @@
     </p>
     <div class="mt-8">
       <LandingLink
-        href=""
+        href="https://wa.me/5534984164210?text=Solicitar%20teste%20gr%C3%A1tis!"
         class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 text-lg font-medium rounded-full transition-all shadow-md hover:shadow-lg"
       >
         SOLICITAR TESTE
