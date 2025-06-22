@@ -45,7 +45,7 @@ const features = [
       Streaming de qualidade para você e sua família
     </h2>
     <p class="text-lg mt-4 text-slate-600">
-      Assista o que quisere quando quiser, com qualidade e estabilidade
+      Assista o que quiser e quando quiser, com qualidade e estabilidade
       o melhor serviço de Streaming do Brasil.
     </p>
   </div>
